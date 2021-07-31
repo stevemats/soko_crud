@@ -1,4 +1,4 @@
-Django==2.2.20
+Django==2.2.24
 mysqlclient==1.4.5
 python-decouple==3.3
 pytz==2019.3
